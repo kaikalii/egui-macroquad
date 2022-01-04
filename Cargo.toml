@@ -19,6 +19,7 @@ version = "0.7.0"
 
 [dependencies]
 egui = "0.16.0"
+egui-miniquad.branch = 'kaikalii'
 egui-miniquad.git = 'https://github.com/kaikalii/egui-miniquad'
 macroquad.branch = 'kaikalii'
 macroquad.git = 'https://github.com/kaikalii/macroquad'
